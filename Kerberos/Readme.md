@@ -26,4 +26,8 @@ immutable fashion.
 Live demo is available on demand. Send an email to me for a demo (shujjat.shirafat@gmail.com). Mention KerberosDemo in the subject.
 
 
+### Pricing
+Send an email to me for a pricing options (shujjat.shirafat@gmail.com). Mention KerberosDemo in the subject.
+
+
 
