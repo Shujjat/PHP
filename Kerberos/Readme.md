@@ -1,5 +1,5 @@
 # Kerberos
-This system uses DJango as the backend.
+This system uses PHP CIBonfire framwork as the backend.
 This is commercial product used by manufacturers.
 This system has four main parts: EncryptCodeGenerator, EncryptCodeVerifier, SupplyChainManager, HyperLedger
 ## EncryptCodeGenerator
@@ -17,3 +17,7 @@ This is the main entry sheet recording each EncryptCode and its allocation and o
 immutable fashion.
 
 ## Demo
+The demo is available on demand. Send an email to me for a demo (shujjat.shirafat@gmail.com). Mention KerberosDemo in the subject.
+
+
+
