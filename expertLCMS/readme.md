@@ -9,4 +9,4 @@ Univeristies
 Vocational Institutes
 It has many modules to facilitate the learners and administration.
 
-Use this link to read an introduction about the tool [link]()
+Use this link to read an introduction about the tool [link](https://github.com/Shujjat/PHP/blob/main/expertLCMS/Features%20Guide.pdf)
